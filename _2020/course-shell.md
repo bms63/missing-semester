@@ -382,6 +382,10 @@ far, and we will try to help you out.
     something like `/bin/bash` or `/usr/bin/zsh`, that means you're running the
     right program.
  1. Create a new directory called `missing` under `/tmp`.
+   ```
+   mkdir missing
+   ```
+
  1. Look up the `touch` program. The `man` program is your friend.
  1. Use `touch` to create a new file called `semester` in `missing`.
  1. Write the following into that file, one line at a time:
